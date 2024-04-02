@@ -1,0 +1,5 @@
+apikeys:
+    github: "API-KEY"
+    shodan: "API-KEY"
+    virusTotal: "API-KEY"
+    censys: "API-KEY"
